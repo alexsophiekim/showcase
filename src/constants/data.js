@@ -1,33 +1,5 @@
 import images from './images';
 
-const skills = [
-  {
-    title: 'Chapel Hill Shiraz',
-    price: '$56',
-    tags: 'AU | Bottle',
-  },
-  {
-    title: 'Catena Malbee',
-    price: '$59',
-    tags: 'AU | Bottle',
-  },
-  {
-    title: 'La Vieillw Rose',
-    price: '$44',
-    tags: 'FR | 750 ml',
-  },
-  {
-    title: 'Rhino Pale Ale',
-    price: '$31',
-    tags: 'CA | 750 ml',
-  },
-  {
-    title: 'Irish Guinness',
-    price: '$26',
-    tags: 'IE | 750 ml',
-  },
-];
-
 const companies = [
   {
     imgUrl: images.mobi,
@@ -60,6 +32,11 @@ const works = [
     title: '[Feature Improvement]Product in Product UX case study',
     subtitle: 'UX research process, usability test, Development. Wordpress and Webflow website built.',
   },
+  {
+    imgUrl: images.uxpip,
+    title: '[Feature Improvement]Product in Product UX case study',
+    subtitle: 'UX research process, usability test, Development. Wordpress and Webflow website built.',
+  },
   // {
   //   imgUrl: images.tech,
   //   title: 'Tech Expozed',
@@ -77,4 +54,4 @@ const works = [
   // },
 ];
 
-export default { skills, companies, works };
+export default { companies, works };

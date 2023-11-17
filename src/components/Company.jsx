@@ -16,7 +16,7 @@ const CompanyCard = ({ companies: {imgUrl, homepage, title, subtitle } }) => (
 
 const Company = () => {
   return (
-    <div className='w-full py-[6rem] px-4 bg-[#232931] text-white'>
+    <div className='h-screen flex justify-evenly flex-col w-full py-[6rem] px-4 bg-[#232931] text-white' id='company'>
        <h1 className='text-center text-4xl mb-[8rem] uppercase font-bold text-[#00df9a]'>Worked with</h1>
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-4 gap-8'>
         {data.companies.map((companies) => <CompanyCard companies={companies} key={companies.title} />)}
