@@ -1,5 +1,5 @@
 {
-  "homepage": "https://alexsophiekim.github.io/showcase",
+  "homepage": "https://alexsophiekim.github.io/showcase/index.html",
   "name": "sophie-showcase",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +19,7 @@
   },
   "scripts": {
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build -b master",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
