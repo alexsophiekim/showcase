@@ -28,11 +28,6 @@ const companies = [
 ];
 const works = [
   {
-    imgUrl: images.pipux,
-    title: '[Feature Improvement]Product in Product UX case study',
-    subtitle: 'UX research process, usability test, Development. Wordpress and Webflow website built.',
-  },
-  {
     imgUrl: images.uxpip,
     title: '[Feature Improvement]Product in Product UX case study',
     subtitle: 'UX research process, usability test, Development. Wordpress and Webflow website built.',
