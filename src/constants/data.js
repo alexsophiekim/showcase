@@ -18,13 +18,7 @@ const companies = [
     homepage: 'https://www.tab.co.nz/',
     title: 'TAB',
     subtitle: 'Government sports betting agency in NZ. Improving product features & flat UI all platforms.',
-  },
-  {
-    imgUrl: images.slogo,
-    homepage: 'https://alexsophiekim.github.io/portfolio-v2/',
-    title: 'Personal',
-    subtitle: 'UX research process, usability test, Development. Wordpress and Webflow website built.',
-  },
+  }
 ];
 const works = [
   {
