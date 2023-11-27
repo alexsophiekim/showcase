@@ -3,7 +3,7 @@ import React from 'react'
 import subproductux from '../assets/subproductux.jpg';
 import modalpip from '../assets/modalpip.mov';
 import extendablepip from '../assets/extendablepip.mov';
-
+import p2p from '../assets/p2p.png';
 import subproduct from '../assets/sub-product.jpg';
 
 const Works = () => {
