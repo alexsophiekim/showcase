@@ -8,7 +8,7 @@ import subproduct from '../assets/sub-product.jpg';
 
 const Works = () => {
   return (
-    <div className='w-full bg-[#232931] text-white lg:p-[4rem] md:p-[2rem] sm:p-[1rem]' id='works'>
+    <div className='w-full bg-[#232931] text-white lg:p-[7rem] md:p-[1rem] sm:p-[1rem]' id='works'>
       <h1 className='text-center text-4xl py-[2rem] uppercase font-bold text-[#00df9a]'>Latest UX case study</h1>
       <img src={subproduct} alt="sub-product-UX" className='lg:px-[10rem] md:px-[4rem] sm:px-[1rem]'/>
        <img src={subproductux} alt="PIP-UX" className='lg:px-[10rem] h-100 md:px-[4rem] sm:px-[1rem]'/>

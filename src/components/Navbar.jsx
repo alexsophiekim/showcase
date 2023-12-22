@@ -13,7 +13,7 @@ const navigation = [
   },
   {
     name: 'Work',
-    link: '#works'
+    link: '#projects'
   },
   {
     name: 'Contact',

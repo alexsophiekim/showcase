@@ -3,6 +3,7 @@ import slogo from '../assets/slogo.png';
 import tab from '../assets/tab.png';
 import tech from '../assets/tech.jpg';
 import uxpip from '../assets/uxpip.jpg';
+import subpro from '../assets/subpro.png'
 
 export default {
   mobi,
@@ -10,4 +11,5 @@ export default {
   tab,
   tech,
   uxpip,  
+  subpro
 };
