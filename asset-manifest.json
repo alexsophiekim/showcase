@@ -1,22 +1,39 @@
 {
   "files": {
-    "main.css": "/showcase/static/css/main.8140ea7d.css",
-    "main.js": "/showcase/static/js/main.94d762bb.js",
+    "main.css": "/showcase/static/css/main.6f6686b1.css",
+    "main.js": "/showcase/static/js/main.e6e8eece.js",
+    "static/media/cora.gif": "/showcase/static/media/cora.b62d4743723e5f8ff10e.gif",
     "static/media/extendablepip.mov": "/showcase/static/media/extendablepip.afec4d9046c7fd20a17e.mov",
     "static/media/subproductux.jpg": "/showcase/static/media/subproductux.fc90567800fc59910faa.jpg",
     "static/media/uxpip.jpg": "/showcase/static/media/uxpip.8b6aba6968a32df87832.jpg",
     "static/media/modalpip.mov": "/showcase/static/media/modalpip.3b4ec3933b49649b221c.mov",
+    "static/media/beat.gif": "/showcase/static/media/beat.df5d9c296378bf311fa5.gif",
     "static/media/p2p.png": "/showcase/static/media/p2p.6e8b9bfd013d702a28e7.png",
+    "static/media/sticker.png": "/showcase/static/media/sticker.0d0b167a1af6240458bb.png",
+    "static/media/UX.png": "/showcase/static/media/UX.3e35a61ac246ef695002.png",
+    "static/media/Storefronts.png": "/showcase/static/media/Storefronts.c773350b356633c95ab5.png",
+    "static/media/stander.png": "/showcase/static/media/stander.9ada5fc0093f445da306.png",
+    "static/media/subpro.png": "/showcase/static/media/subpro.712f156e937d837d2582.png",
+    "static/media/MaGr.png": "/showcase/static/media/MaGr.f66a49172beb5f0d49f7.png",
+    "static/media/digital.png": "/showcase/static/media/digital.2f42dc0634cca57f1c0c.png",
+    "static/media/pitapitReceipt.png": "/showcase/static/media/pitapitReceipt.e1b64a7972b64f4a1bcd.png",
+    "static/media/caucus.jpg": "/showcase/static/media/caucus.8d190cb424e31a87de75.jpg",
+    "static/media/mobistander.jpg": "/showcase/static/media/mobistander.99cec52f4b7e0e5db590.jpg",
+    "static/media/oportoReceipt.png": "/showcase/static/media/oportoReceipt.a244a5791e588da1ac7e.png",
+    "static/media/stamp.png": "/showcase/static/media/stamp.3db0e78e4ffdcf543c70.png",
     "static/media/sub-product.jpg": "/showcase/static/media/sub-product.4d1aef09350a5c85c1a5.jpg",
     "static/media/mobi.png": "/showcase/static/media/mobi.bcbf7a67c92d7a5ffe89.png",
+    "static/media/taco.png": "/showcase/static/media/taco.c165986d2b9f6274176b.png",
+    "static/media/tacoM.png": "/showcase/static/media/tacoM.06efc9cc22f1d0e7ca04.png",
     "static/media/tab.png": "/showcase/static/media/tab.f7f47a0697390409280b.png",
     "static/media/slogo.png": "/showcase/static/media/slogo.5981e84efa8d94dd94da.png",
+    "static/media/ETC.png": "/showcase/static/media/ETC.6d3d7b9b3c536ad4c924.png",
     "index.html": "/showcase/index.html",
-    "main.8140ea7d.css.map": "/showcase/static/css/main.8140ea7d.css.map",
-    "main.94d762bb.js.map": "/showcase/static/js/main.94d762bb.js.map"
+    "main.6f6686b1.css.map": "/showcase/static/css/main.6f6686b1.css.map",
+    "main.e6e8eece.js.map": "/showcase/static/js/main.e6e8eece.js.map"
   },
   "entrypoints": [
-    "static/css/main.8140ea7d.css",
-    "static/js/main.94d762bb.js"
+    "static/css/main.6f6686b1.css",
+    "static/js/main.e6e8eece.js"
   ]
 }
