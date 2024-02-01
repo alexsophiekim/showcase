@@ -2,7 +2,7 @@ import React from 'react';
 import { data } from '../constants';
 
 const CompanyCard = ({ companies: {imgUrl, homepage, title, subtitle } }) => (
-  // <a href={homepage} target="_blank">  
+  <a href={homepage} target="_blank">  
     <div className='w-full shadow-xl bg-[#38424f] flex flex-col p-4 md:my-0 my-8 rounded-lg hover:scale-105 duration-300'>
       <img className='w-20 h-[80px] mx-auto mt-[-3rem] bg-slate-600 border b-slate-100' src={imgUrl} alt="/" />
       <h2 className='text-2xl font-semibold text-center py-4'>{title}</h2>
@@ -10,7 +10,7 @@ const CompanyCard = ({ companies: {imgUrl, homepage, title, subtitle } }) => (
           <p className='pb-2 pt-5 mx-2 border-t '>{subtitle}</p>
       </div>
     </div>
-  // </a>
+ </a>
 
 )
 
