@@ -42,7 +42,7 @@ const Projects = () => {
         </div>
         <section className='grid grid-cols-3 gap-x-2 gap-y-2 lg:gap-x-5 lg:gap-y-5 grid-flow-row-dense w-[90%] lg:w-[70%] mx-auto'>
             <div className='bg-white rounded-xl shadow-xl col-span-2 row-span-2' >
-                <a href='#works' target="blank"> 
+                <a href='#sub' target="blank"> 
                     <img className='w-100 h-100 cover' src={ux} alt="" />
                 </a>
             </div>
